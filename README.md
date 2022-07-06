@@ -1,4 +1,23 @@
 # tradestore
+
+
+##### Steps to run the code <H6>
+
+Downlaod the repo.
+Import the Java Project
+go to maven (Right hand side menu) click on clean and install - it will run the test cases as well. you will be able to see in console logs.
+Run the TradestoreApplication in com.db.tradestore (src/main)
+
+  
+##### Steps to execute test cases <H6>
+  Runt the test case from src/test - TradestoreApplicationTests.java
+
+###### Test Cases Output <H6>
+- All test Case Passed.
+  
+
+# Problem statement
+
 Write a Java program with all the JUNIT cases. TDD approach will be preferred. Time to complete the
 below assignment is 1 hr.
 
